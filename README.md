@@ -6,7 +6,7 @@
 </a>
 <a href="https://www.instagram.com/mondo_insonoro/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+</a><br>
 
 This is my github profile where you can find some of the projects I have done in the last months in the web development bootcamp at Ironhack Madrid.
 
