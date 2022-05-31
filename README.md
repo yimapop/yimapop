@@ -26,8 +26,8 @@ You can see some of my work here
 <br/>
 
 <strong>
-yimapop.github.io/bricky-bricky
-<br/>
+[yimapop.github.io/bricky-bricky
+](https://yimapop.github.io/bricky-bricky/)<br/>
 https://soundhunter.herokuapp.com/
 <br/>
 https://re-educ.netlify.app/
