@@ -15,7 +15,7 @@ This is my github profile where you can find some of the projects I have done in
 
 These are the <strong>technologies</strong> I have used to realize them.
 <br/><br/>
-<code><img height="45" src="https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"></code>
+<code><img height="45" src="https://www.atodocurso.com/sites/default/files/html.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
