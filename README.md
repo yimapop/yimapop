@@ -22,3 +22,11 @@ These are the <strong>technologies</strong> I have used to realize them.
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+You can see some of my work here 
+
+<strong>
+https://toppng.com/uploads/preview/raphic-free-stock-point-png-for-free-download-on-pointing-finger-emoji-transparent-115632663688ufmcxriah.png yimapop.github.io/bricky-bricky
+https://soundhunter.herokuapp.com/
+https://re-educ.netlify.app/
+https://karynga.com/
+</strong>
