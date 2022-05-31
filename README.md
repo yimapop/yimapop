@@ -1,12 +1,18 @@
 
-👋 Hi, I’m Jesús, Fullstack Developer from Madrid, Spain
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Jesús, Fullstack Developer from Madrid, Spain
 
 This is my github profile where you can find some of the projects I have done in the last months in the web development bootcamp at Ironhack Madrid.
 
+<a href="https://www.linkedin.com/in/jesus-martin-ponz/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mondo_insonoro/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
 These are the technologies I have used to realize them.
 
-[<img width=190 src=https://cdn.rawgit.com/standard/standard/master/docs/logos/nodejs.png>](https://nodejs.org) | [<img width=190 src=https://cdn.rawgit.com/standard/standard/master/docs/logos/npm.png>](https://www.npmjs.com) | [<img width=190 src=https://cdn.rawgit.com/standard/standard/master/docs/logos/github.png>](https://github.com) | [<img width=190 src=https://cdn.rawgit.com/standard/standard/master/docs/logos/express.png>](http://expressjs.com) |
-|---|---|---|---|
+
 
 <!--
 **yimapop/yimapop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
