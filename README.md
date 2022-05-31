@@ -17,7 +17,7 @@ This is my github profile where you can find some of the projects I have done in
 
 <br/>
 
-These are the ### technologies I have used to realize them.
+These are the <strong>technologies</strong> I have used to realize them.
 
 <br/>
 
