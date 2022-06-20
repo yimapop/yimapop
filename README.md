@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, <strong>I’m Jesús</strong>, Fullstack Developer from Madrid, Spain
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Hi, <strong>I’m Jesús</strong>, Fullstack Developer from Madrid, Spain
 <br/><br/>
 <a href="https://www.linkedin.com/in/jesus-martin-ponz/">
   <img align="left" alt="Abhishek's LinkedIN" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
