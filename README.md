@@ -1,6 +1,3 @@
-
-[<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> 
-](url)
 Hi, <strong>I’m Jesús</strong>, Fullstack Developer from Madrid, Spain
 <br/><br/>
 <a href="https://www.linkedin.com/in/jesus-martin-ponz/">
